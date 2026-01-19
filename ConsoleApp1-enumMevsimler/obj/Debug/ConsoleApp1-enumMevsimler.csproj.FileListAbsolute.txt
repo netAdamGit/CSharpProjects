@@ -1,0 +1,7 @@
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\bin\Debug\ConsoleApp1-enumMevsimler.exe.config
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\bin\Debug\ConsoleApp1-enumMevsimler.exe
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\bin\Debug\ConsoleApp1-enumMevsimler.pdb
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\obj\Debug\ConsoleApp1-enumMevsimler.csproj.AssemblyReference.cache
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\obj\Debug\ConsoleApp1-enumMevsimler.csproj.CoreCompileInputs.cache
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\obj\Debug\ConsoleApp1-enumMevsimler.exe
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-enumMevsimler\obj\Debug\ConsoleApp1-enumMevsimler.pdb

@@ -1,0 +1,7 @@
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\bin\Debug\ConsoleApp1-4.exe.config
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\bin\Debug\ConsoleApp1-4.exe
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\bin\Debug\ConsoleApp1-4.pdb
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\obj\Debug\ConsoleApp1-4.csproj.AssemblyReference.cache
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\obj\Debug\ConsoleApp1-4.csproj.CoreCompileInputs.cache
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\obj\Debug\ConsoleApp1-4.exe
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\16Ocak\ConsoleApp1-4\obj\Debug\ConsoleApp1-4.pdb
