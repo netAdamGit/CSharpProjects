@@ -1,0 +1,7 @@
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\bin\Debug\switch2.exe.config
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\bin\Debug\switch2.exe
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\bin\Debug\switch2.pdb
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\obj\Debug\switch2.csproj.AssemblyReference.cache
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\obj\Debug\switch2.csproj.CoreCompileInputs.cache
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\obj\Debug\switch2.exe
+C:\Users\hdemi\OneDrive\Masaüstü\IIENSTITUSU\Ocak-Subat\18Ocak\switch2\obj\Debug\switch2.pdb
